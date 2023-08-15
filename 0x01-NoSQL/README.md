@@ -3,7 +3,7 @@
 
 Back-endNoSQLMongoDB
 
-- By Dev Nderitu
+- By Kim Njuguna
 
 Resources
 ---------
